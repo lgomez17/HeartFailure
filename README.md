@@ -15,3 +15,5 @@ Crosstab function (https://pandas.pydata.org/docs/reference/api/pandas.crosstab.
 Crosstab function (https://www.geeksforgeeks.org/pandas-crosstab-function-in-python/)
 
 Python Machine Learning Tutorial (https://www.youtube.com/watch?v=7eh4d6sabA0)
+
+ValueError: could not convert string to float id (https://stackoverflow.com/questions/8420143/valueerror-could-not-convert-string-to-float-id)
